@@ -27,7 +27,11 @@ There was no ceremony and no committee. I decided it, the way two different Bara
 
 ## Where it is used
 
-[list to confirm]
+Anno Greta was first mentioned in a (unpublished) book titled: "Antti Bible" in year 2019.
+
+Anno Greta can be used together with Identor number to tag files, read here [Identor FAQ](https://github.com/micro-FPGA/Identor/blob/main/FAQ.md)
+
+TODO TOMORROW...
 
 ## What I am not asking for
 
