@@ -7,6 +7,8 @@ It did not end. Emissions kept rising. Politics largely continued unchanged. The
 
 This era is named for that date anyway — not as a celebration, but as a marker: the point after which "we didn't know" stopped being a credible excuse, for climate and for everything adjacent to it that depended on the same willingness to act on hard evidence.
 
+Greta Thunberg has no involvement in this and has never been asked.
+
 # Dating convention
 Years are counted from 24 September 2019 (Year 0 AG). A date written as "Year N AG" refers to the Nth year of this era.
 
