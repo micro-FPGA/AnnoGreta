@@ -39,7 +39,8 @@ October 2019 (Year 0 AG) I wrote in X(twitter) posting from account named Hope A
 Do you have any use for:
 * some land on an island with whistling sands
 * small appartment close downtown in capital city 
-* small house+some land? 
+* small house+some land?
+
 All yours if the answer is: YES
 
 I would have given to you 4 of my 5 real estate slots. That would include 2 of 3 slots on the island. I would have asked you to sell one of the island land slots to Richard Branson for 5 SEK. I did think that having you and Richard as neighbours is worth more than the raw value of the real-estate I had. The offer is no longer valid, but should you ask, one island slot is yours if you wish. It is located on island Hiiumaa.
