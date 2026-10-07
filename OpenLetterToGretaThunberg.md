@@ -33,6 +33,18 @@ Anno Greta can be used together with Identor number to tag files, read here [Ide
 
 Some ideaREG Idea registrations use Anno Greta, see [here](https://github.com/micro-FPGA/ideaREG/blob/main/1/30.md) 
 
+## What I offered
+October 2019 (Year 0 AG) I wrote in X(twitter) posting from account named Hope A. Freedom
+
+Do you have any use for:
+* some land on an island with whistling sands
+* small appartment close downtown in capital city 
+* small house+some land? 
+All yours if the answer is: YES
+
+
+
+
 ## What I am not asking for
 
 Nothing. You owe me no reply and this needs no permission. The calendar exists whether or not you ever read this.
