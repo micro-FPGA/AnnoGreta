@@ -6,9 +6,9 @@ To Greta Thunberg, and to anyone who finds this.
 
 In the autumn of 2019 you had an insect named after you — *Nelloptodes gretae* — and you did not get the Nobel Prize.
 
-I could not change that. But there was something I could do.
+I could not change that. But there was something I could do. I decided that 2019 is year 0.
 
-I decided that 2019 is year 0.
+![AnnoGretaImage](./docs/AnnoGreta_1280.jpg)
 
 Anno Greta. The conversion is simple: the day and the month stay the same, and from the year you subtract 2019.
  
