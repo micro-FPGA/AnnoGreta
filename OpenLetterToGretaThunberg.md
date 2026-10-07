@@ -65,10 +65,11 @@ and immediately after it:
 
 > "I wish I could ask her this, but this remains a dream."
 
+This letter is me asking. If you ever want to answer, I would like to know. If you do not, the day stays where it is.
+
+— Antti Lukats, 7 AG
+
 ## AI usage note
 
 The initial draft for this letter, all AIBLE's and the image here are created by AI
 
-This letter is me asking. If you ever want to answer, I would like to know. If you do not, the day stays where it is.
-
-— Antti Lukats, 7 AG
