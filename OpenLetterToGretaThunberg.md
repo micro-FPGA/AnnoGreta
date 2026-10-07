@@ -31,7 +31,7 @@ Anno Greta was first mentioned in a (unpublished) book titled: "Antti Bible" in 
 
 Anno Greta can be used together with Identor number to tag files, read here [Identor FAQ](https://github.com/micro-FPGA/Identor/blob/main/FAQ.md)
 
-TODO TOMORROW...
+Some ideaREG Idea registrations use Anno Greta, see [here](https://github.com/micro-FPGA/ideaREG/blob/main/1/30.md) 
 
 ## What I am not asking for
 
