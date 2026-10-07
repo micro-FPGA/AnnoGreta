@@ -1,6 +1,8 @@
 # Anno Greta (AG)
 Year 0 AG: 24 September 2019.
 
+![AnnoGretaImage](./docs/AnnoGreta_1280.jpg)
+
 By this date, a teenager's year of striking and testifying had made the scale and urgency of the climate crisis impossible for any attentive adult to credibly deny. It was the moment business as usual should have ended — not just on climate, but more broadly: a reckoning with how much evidence-based warning the world was willing to ignore in favor of continuing as before.
 
 It did not end. Emissions kept rising. Politics largely continued unchanged. The moment passed without the reckoning it deserved.
