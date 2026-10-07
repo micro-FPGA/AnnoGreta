@@ -71,5 +71,5 @@ This letter is me asking. If you ever want to answer, I would like to know. If y
 
 ## AI usage note
 
-The initial draft for this letter, all AIBLE's and the image here are created by AI
+The initial draft for this letter, all AIBLEs and the image here are created by AI
 
