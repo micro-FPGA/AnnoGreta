@@ -33,6 +33,8 @@ Anno Greta can be used together with Identor number to tag files, read here [Ide
 
 Some ideaREG Idea registrations use Anno Greta, see [here](https://github.com/micro-FPGA/ideaREG/blob/main/1/30.md) 
 
+Some [AIBLE](https://github.com/micro-FPGA/AIBLE) use Anno Greta as year of copyright, see [here](https://github.com/micro-FPGA/AIBLE/blob/main/aibles/1/Claudes-Aible.pdf)
+
 ## What I offered
 October 2019 (Year 0 AG) I wrote in X(twitter) posting from account named [Hope A. Freedom](https://x.com/HopeAFreedom1)
 
@@ -44,6 +46,8 @@ Do you have any use for:
 All yours if the answer is: YES
 
 I would have given to you 4 of my 5 real estate slots. That would include 2 of 3 slots on the island. I would have asked you to sell one of the island land slots to Richard Branson for 5 SEK. I did think that having you and Richard as neighbours is worth more than the raw value of the real-estate I had. The offer is no longer valid, but should you ask, one island slot is yours if you wish. It is located on island Hiiumaa.
+
+There is an Aible about this, read [here](https://github.com/micro-FPGA/AIBLE/blob/main/aibles/11/All-Yours-If-The-Answer-Is-Yes.pdf)
 
 ## What I am not asking for
 
